@@ -1,0 +1,9 @@
+<resources>
+    <string name="app_name">Liquor Shop</string>
+    <string name="add_to_cart">Add to Cart</string>
+    <string name="favorite_content_desc">favorite</string>
+    <string name="title_products">Products</string>
+    <string name="title_favorites">Favorites</string>
+    <string name="title_name">Product Name:</string>
+    <string name="title_price">Price:</string>
+</resources>
